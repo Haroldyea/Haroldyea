@@ -1,0 +1,25 @@
+<?php return array (
+  'parameters' => 
+  array (
+    'database_host' => '127.0.0.1',
+    'database_port' => '',
+    'database_name' => 'goparking',
+    'database_user' => 'jorge',
+    'database_password' => 'Jorge30.',
+    'database_prefix' => 'ps_',
+    'database_engine' => 'InnoDB',
+    'mailer_transport' => 'smtp',
+    'mailer_host' => '127.0.0.1',
+    'mailer_user' => NULL,
+    'mailer_password' => NULL,
+    'secret' => 'L52oyq7tbFJYGuHqiUWduNUwmvVxbAimbUEFftAuzSd4zbo48z9A2yz1a1rISMEj',
+    'ps_caching' => 'CacheMemcache',
+    'ps_cache_enable' => false,
+    'ps_creation_date' => '2021-09-25',
+    'locale' => 'es-ES',
+    'use_debug_toolbar' => true,
+    'cookie_key' => 'XeRTZPpM2Wpm03jytS0vTyJUzMcBFCRVvRWtHx0bLjgXoF9LpWXdvz8twM8OXLCT',
+    'cookie_iv' => 'HCNjx7IpbezNg53nGYAbecrwg3DrT1IT',
+    'new_cookie_key' => 'def00000f1f001e4e4d8acf85e34bc3fb735cc348ad364e4a2cc80432fc2ae0ec1c3d161a152d636f2b7cd19082d41bd89536aa0b829258c6abfdf0506483c3d5b28203c',
+  ),
+);
